@@ -40,13 +40,13 @@ python main.py
 ## Directory Structure
 The script expects the following directory structure:
 /data/
-├── Financial_Reports/
-│   └── Report.zip
+├── 金融研报/
+│   └── 研报.zip
 ├── extracted/
-│   └── Report/
+│   └── 研报/
 ├── Finance/
-│   ├── Report/
-│   └── Report_processed_files.txt
+│   ├── 研报/
+│   └── 研报_processed_files.txt
 ## Notes
 - **Directory Verification**: Ensure that all specified directories exist or are created before running the script
 - **ZIP Structure Assumption**: The script assumes the ZIP file contains PDF files. Adjust the script if the ZIP structure differs
