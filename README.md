@@ -40,7 +40,7 @@ python main.py
 ## Directory Structure
 The script expects the following directory structure:
 
-`
+```Markdown
 data
 ├── 金融研报
 │   └── 研报.zip
@@ -49,7 +49,7 @@ data
 └── Finance
    ├── 研报
    └── 研报\_processed_files.txt
-`
+```
 
 ## Notes
 - **Directory Verification**: Ensure that all specified directories exist or are created before running the script
