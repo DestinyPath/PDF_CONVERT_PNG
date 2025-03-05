@@ -40,14 +40,16 @@ python main.py
 ## Directory Structure
 The script expects the following directory structure:
 
+`
 data
 ├── 金融研报
 │   └── 研报.zip
 ├── extracted
 │   └── 研报
 └── Finance
-    ├── 研报
-    └── 研报_processed_files.txt
+   ├── 研报
+   └── 研报\_processed_files.txt
+`
 
 ## Notes
 - **Directory Verification**: Ensure that all specified directories exist or are created before running the script
